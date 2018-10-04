@@ -1,5 +1,9 @@
 # -*- coding:UTF-8-*-
-
+'''
+@Author : 刘天勇
+@Project : Spider
+@Email : 1063331689@qq.com
+'''
 # 导入相应模块
 # time模块主要用于爬虫睡眠
 import time
