@@ -3,6 +3,7 @@
 @Author : 刘天勇
 @Project : Spider
 @Email : 1063331689@qq.com
+@GitHub : https://github.com/LiuTianyong/SpiderDemo
 '''
 # 导入相应模块
 # time模块主要用于爬虫睡眠
